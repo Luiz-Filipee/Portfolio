@@ -1,5 +1,6 @@
 svg {
     width: 298px;
+    padding: 20px;
 }
 
 @media (min-width: 1080px){
