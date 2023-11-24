@@ -2,7 +2,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 24px;
+    padding:27px 24px 27px 24px;
 }
 
 header div {
