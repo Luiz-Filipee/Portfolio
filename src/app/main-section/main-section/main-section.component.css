@@ -34,6 +34,7 @@ section .main-content p {
     font-weight: 400;
     font-size: 24px;
     color: rgba(31, 38, 38, 1);
+    text-align: justify;
 }
 
 @media (min-width: 1080px){

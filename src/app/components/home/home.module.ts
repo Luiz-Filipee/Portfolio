@@ -10,6 +10,7 @@ import { LineAnimationComponent } from "src/app/about/line-animation/line-animat
 import { ProjectsSectionComponent } from "src/app/projects-section/projects-section/projects-section.component";
 import { RedesSociaisSectionComponent } from "src/app/redes-socias-section/redes-sociais-section/redes-sociais-section.component";
 import { RedesSociaisAnimationComponent } from "src/app/redes-sociais-section/redes-sociais-animation/redes-sociais-animation.component";
+import { ExperiencyComponent } from "src/app/experiency/experiency.component";
 import { FotterComponent } from "src/app/footer/fotter/fotter.component";
 
 @NgModule({
@@ -24,6 +25,7 @@ import { FotterComponent } from "src/app/footer/fotter/fotter.component";
         ProjectsSectionComponent,
         RedesSociaisSectionComponent,
         RedesSociaisAnimationComponent,
+        ExperiencyComponent,
         FotterComponent
     ],
     imports: [

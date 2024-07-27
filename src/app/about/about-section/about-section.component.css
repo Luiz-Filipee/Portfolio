@@ -33,6 +33,7 @@ section .about-section p {
     line-height: 28px;
     color: rgba(31, 38, 38, 1);
     margin-left: 2px;
+    text-align: justify;
 }
 
 
